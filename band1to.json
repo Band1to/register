@@ -1,0 +1,11 @@
+{
+  "description": "Band1to",
+  "repo": "https://github.com/band1to.github.io",
+  "owner": {
+    "username": "band1to",
+    "email": "contact@band1to.me"
+  },
+"record": {
+    "CNAME": "band1to.github.io"
+  }
+}
